@@ -104,6 +104,9 @@ h2 + hr {
     color: inherit;
 }
 
+.navigation .thin {
+    height: 25px;
+}
 
 
 /* ----- HERO ----- */
